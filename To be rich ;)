@@ -1,0 +1,35 @@
+New:
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/gamecheck/main/hub", true))()
+
+
+
+Script 2
+
+_G.credits = "Credits to iShield. DISCORD SERVER INVITE LINK: https://discord.gg/x57Xk65xZs"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/shieldhubloader2"))()
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/gamecheck/main/hub", true))()
+
+
+
+Script 2
+
+
+
+_G.credits = "Credits to iShield. DISCORD SERVER INVITE LINK: https://discord.gg/x57Xk65xZs"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/shieldhubloader2"))()
+
+
+
+script :
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xfaz/gamecheck/main/hub", true))()
